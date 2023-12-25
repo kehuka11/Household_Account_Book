@@ -5,6 +5,7 @@ members = [
   "presentation",
   "infra",
   "usecase",
+  "migrate/migration",
 ]
 
 resolver = "2"
